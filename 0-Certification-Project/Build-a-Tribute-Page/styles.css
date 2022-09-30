@@ -1,0 +1,56 @@
+*{
+    font-family: "Verdana", sans-serif;
+    max-width: 100%;
+}
+  
+#main{
+    background-color: lightgrey;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+h1{
+  text-align: center;
+  margin: 20px auto;
+}
+  
+img{
+  display: block;
+  margin: auto;
+}
+  
+  #img-caption{
+    font-size: 14px;
+    padding-top: 10px;
+    text-align: center;
+  }
+
+h3{
+  text-align: center;
+}
+
+#caption{
+  display: flex;
+  justify-content: center;
+}
+
+#img-div{
+  background-color: white;
+  padding: 20px 40px;
+  margin-top: 10px;
+}
+
+.timeline{
+  margin: auto;
+  width: 50%;
+}
+
+li{
+  margin: 20px;
+  font-size: 14px;
+}
+
+footer{
+  font-size: 12px;
+  text-align: center;
+}

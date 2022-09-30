@@ -1,0 +1,90 @@
+body{
+    font-family: Tahoma;
+    background-image: url(https://i.ytimg.com/vi/kwFasvO9NQ8/maxresdefault.jpg);
+    color: white;
+    height: 50vh;
+    width: 100%;
+    margin: 0;
+  }
+  
+  h1{
+    font-weight: 200;
+  }
+  
+  h1, p{
+    text-align: center;
+  }
+  
+  #survey-form{
+    background-color: rgba(0, 12, 10, 70%);
+    width: 60%;
+    padding: 30px;
+    margin: auto;
+    border-radius: 5px;
+    height: auto;
+  }
+  
+  label{
+    display: block;
+    margin: 10px 0;
+  }
+  
+  label, select, textarea{
+    font-size: 16px;
+    margin: 5px 5px 10px 0;
+    
+  }
+  
+  input{
+    font-size: 16px;
+    margin: 5px 5px 10px 0;
+  }
+  
+  .one input, .three input, .five input{
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+  }
+  
+  select{
+    width: auto;
+    border-radius: 5px;
+    padding: 8px;
+  }
+
+  textarea{
+    width: 100%;
+    border-radius: 5px;
+    padding: 8px;
+  }
+  
+  fieldset{
+    border: 0;
+  }
+
+  input[type="radio"]{
+    margin: 0 10px 0 0;
+  }
+
+  input[type="checkbox"]{
+    margin: 0 10px 0 0;
+
+  }
+  
+  input[type="submit"]{
+    display: block;
+    width: 60%;
+    margin: auto;
+    height: 40px;
+    font-size: 16px;
+    color: white;
+    background-color: rgb(0, 150,0);
+    border: 0;
+    border-radius: 5px;
+  }
+
+  footer{
+    text-align: right;
+    padding: 10px;
+    
+  }
